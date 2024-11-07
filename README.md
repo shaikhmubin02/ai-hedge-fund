@@ -2,7 +2,7 @@
 
 ![Hedge Fund Agent Team](hf.png)
 
-This project is a simulation of a basic hedge fund research team powered by AI agents using [LangChain](https://langchain.com/) and [LangGraph](https://langgraph.com/). It includes a team of four specialized agents:
+This project is a simulation of a basic hedge fund research team powered by AI agents using LangChain and LangGraph. It includes a team of four specialized agents:
 
 - **Portfolio Manager**
 - **Fundamental Analyst**
@@ -24,7 +24,7 @@ The team operates in parallel, leveraging LangGraph’s branching capabilities t
 
 ## Features
 
-- **Automated Financial Analysis**: Accesses over 30,000 tickers through [@findatasets](https://findatasets.com/) to retrieve and analyze financial data.
+- **Automated Financial Analysis**: Accesses over 30,000 tickers through @findatasets to retrieve and analyze financial data.
 - **Real-Time Data**: Retrieves live stock prices and daily changes.
 - **Sentiment Analysis**: Gathers recent news headlines and market sentiment.
 - **Parallel Execution**: Utilizes LangGraph's branching to allow agents to run tasks in parallel, improving efficiency.
@@ -34,8 +34,8 @@ The team operates in parallel, leveraging LangGraph’s branching capabilities t
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hedge-fund-agent-team.git
-cd hedge-fund-agent-team
+git clone https://github.com/shaikhmubin02/ai-hedge-fund.git
+cd ai-hedge-fund
 pip install -r requirements.txt
 ```
 

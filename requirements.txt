@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain_openai
+langchain_experimental
+langsmith
+pandas
+requests
+pydantic
+rich
