@@ -59,5 +59,3 @@ stream_agent_execution(graph, input_data, config)
 This will execute the agent team and display a comprehensive report based on each agent's analysis.
 
 ---
-
-
